@@ -1,0 +1,2 @@
+Define author name to be used for all commits in current repo. Devs
+commonly use --global flag to set config options for current user.
